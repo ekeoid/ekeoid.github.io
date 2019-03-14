@@ -42,3 +42,45 @@
 	"word_wrap": true,
 	"wrap_width": 80
 }
+
+
+// Other User Settings
+
+{
+	"bold_folder_labels": true,
+	"caret_extra_width": 1,
+	"caret_style": "phase",
+	//"color_scheme": "Packages/Theme - Spacegray/base16-eighties.dark.tmTheme",
+	"theme": "ayu-mirage.sublime-theme",
+  "color_scheme": "Packages/ayu/ayu-dark.tmTheme",
+	"enable_tab_scrolling": false,
+	"font_face": "Inconsolata",
+	"font_size": 11,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+	],
+	"open_files_in_new_window": false,
+	"overlay_scroll_bars": "enabled",
+	"rulers":
+	[
+		80
+	],
+	"scroll_past_end": true,
+	"scroll_speed": 5.0,
+	"show_full_path": false,
+	"spell_check": true,
+	"tab_size": 2,
+	"tabs_medium": true,
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"vintage_start_in_command_mode": true,
+	"word_wrap": false,
+	"ui_separator":             true, // separators between panels
+  "ui_font_size_small":       false, // smaller UI font size(sidebar, statusbar etc)
+  "ui_big_tabs":              true, // increased tab height
+  "ui_fix_tab_labels":        true, // to fix tab labels if they look not right
+  "ui_font_source_code_pro":  true, // use [Source Code Pro](https://fonts.google.com/specimen/Source+Code+Pro) for UI
+  "ui_font_default":          true, // use Sublime Text's default UI font
+  "ui_wide_scrollbars":       true, // wider scrollbars
+}
